@@ -1,0 +1,1230 @@
+id: PCF747A62
+initial_creation_type: input
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: bo
+  volumes:
+    b09bdd6177414a22ad923e48a8a3542d:
+      title: CIII_§40. śrāvakabhūmayaḥ
+      base_file: CIII_§40. śrāvakabhūmayaḥ.txt
+      work_id: WAE2D0FDD
+    cdaf47fff84745e2babf68b265de35e2:
+      title: CIII_§41. pañcendriyāṇi
+      base_file: CIII_§41. pañcendriyāṇi.txt
+      work_id: W8B733C44
+    e3afcbb0631e48c9b8ff8f150c389614:
+      title: CIII_§42. pañcabalāni
+      base_file: CIII_§42. pañcabalāni.txt
+      work_id: W7D9F8191
+    a18f5530ae0b4bf8a95c25b99fe0a58a:
+      title: CIII_§43. saptabodhyaṅgāni
+      base_file: CIII_§43. saptabodhyaṅgāni.txt
+      work_id: W26658A9B
+    388639c612eb47da9563c1278dad9cfc:
+      title: CIII_§44. aṣṭāṅgamārganāmāni
+      base_file: CIII_§44. aṣṭāṅgamārganāmāni.txt
+      work_id: W3DA1E477
+    f1c0042037084c7ba3719224810f442a:
+      title: CIII_§45. pratyekabuddhapudgalāḥ
+      base_file: CIII_§45. pratyekabuddhapudgalāḥ.txt
+      work_id: WBB831EBE
+    12126132cefe47d7ada493338394f67a:
+      title: CIII_§46. śrāvakapudgalakramāḥ
+      base_file: CIII_§46. śrāvakapudgalakramāḥ.txt
+      work_id: WEF59CF06
+    7ac3beb466e4416484e92113755f128a:
+      title: CIII_§47. nānāśrāvakanāmāni
+      base_file: CIII_§47. nānāśrāvakanāmāni.txt
+      work_id: W78227000
+    56a710171797424ab52ab6204fa906ca:
+      title: CIII_§48. śrāvakaguṇāḥ
+      base_file: CIII_§48. śrāvakaguṇāḥ.txt
+      work_id: W9889288F
+    812bdfaeaec64f2dbd4032dbd0e0b122:
+      title: CIII_§49. dvādaśadhūtaguṇāḥ
+      base_file: CIII_§49. dvādaśadhūtaguṇāḥ.txt
+      work_id: W71F7CA6E
+    51efa9cad05a437dbff994bf4f9ec74c:
+      title: CIII_§51. ṣaḍanusmṛtayaḥ
+      base_file: CIII_§51. ṣaḍanusmṛtayaḥ.txt
+      work_id: W4A6771ED
+    160e2a7a6fe94814b04c0c14988febb2:
+      title: CIII_§52.aśubhabhāvanāḥ
+      base_file: CIII_§52.aśubhabhāvanāḥ.txt
+      work_id: W4E78ED46
+    4893cf78453e4392b2887c74328759f2:
+      title: CIII_§53. ānāpānabhāvanāvidhiḥ
+      base_file: CIII_§53. ānāpānabhāvanāvidhiḥ.txt
+      work_id: W7DAAFB74
+    d5ae14bab42646bfaeafa7b7508162dd:
+      title: CIII_§54. ṣoḍaśabhir ākārair visāritāni catvāry āryasatyāni
+      base_file: CIII_§54. ṣoḍaśabhir ākārair visāritāni catvāry āryasatyāni.txt
+      work_id: W5D1241FF
+    c20000efcfd64622a19a763547618816:
+      title: CIII_§55. nirvedhabhagakramaḥ
+      base_file: CIII_§55. nirvedhabhagakramaḥ.txt
+      work_id: W3E566E3D
+    63aeb705883242c68e8a4110c84951e5:
+      title: CIII_§56. ṣoḍaśacittakṣaṇāḥ
+      base_file: CIII_§56. ṣoḍaśacittakṣaṇāḥ.txt
+      work_id: W0BC44447
+    a5d7e0439e084edb8ca9ff1adc339e5e:
+      title: CIII_§57. daśajñānāni
+      base_file: CIII_§57. daśajñānāni.txt
+      work_id: W00D8B508
+    e739d4d988554e47bb9f44baa473179a:
+      title: CIII_§58. catvāraḥ pratipadaḥ
+      base_file: CIII_§58. catvāraḥ pratipadaḥ.txt
+      work_id: W705D2259
+    2165f8ae439d484db23ea791892ed300:
+      title: CIII_§59. yānakramaḥ
+      base_file: CIII_§59. yānakramaḥ.txt
+      work_id: W2457A2E5
+    88b70272456546f693c7921a63e661dd:
+      title: CIII_§60. indriyavaimātratā
+      base_file: CIII_§60. indriyavaimātratā.txt
+      work_id: W2330C0DB
+    21130a2a60b44cfb89323cfc141df74e:
+      title: CII_[saptatriṃśadbodhipakṣa]
+      base_file: CII_[saptatriṃśadbodhipakṣa].txt
+      work_id: W05FFB4E7
+    445708aa1ae34c879ae31bc0443c66fa:
+      title: CII_§21. prajñāpāramitodbhāvitasamādhināmāni
+      base_file: CII_§21. prajñāpāramitodbhāvitasamādhināmāni.txt
+      work_id: W6DDC8A76
+    8ba4683fcf79460789328c9205c9b139:
+      title: CII_§22. bodhisatvānāṃ sādhāraṇanāmāni
+      base_file: CII_§22. bodhisatvānāṃ sādhāraṇanāmāni.txt
+      work_id: WE4E7F8AF
+    5463827359e4411283f8066ad9b146b7:
+      title: CII_§24. bodhisatvasamādhayaḥ
+      base_file: CII_§24. bodhisatvasamādhayaḥ.txt
+      work_id: WE2222219
+    2dd190ff81464a15bb6c19df7cc73cc2:
+      title: CII_§25. bodhisattvadhāraṇyaḥ
+      base_file: CII_§25. bodhisattvadhāraṇyaḥ.txt
+      work_id: W1118D3E8
+    11ffbed8ae16416b9c129088f43ce3d0:
+      title: CII_§26. bodhisattvabalāni
+      base_file: CII_§26. bodhisattvabalāni.txt
+      work_id: WFFBF4B30
+    55e76721dbff4ae1bbcefe5f4adc1167:
+      title: CII_§26. nānābodhisattvanāmāni
+      base_file: CII_§26. nānābodhisattvanāmāni.txt
+      work_id: W3F02F296
+    5c2ea24b349b490b8428f0d14981d57e:
+      title: CII_§27. bodhisattvavaśitā
+      base_file: CII_§27. bodhisattvavaśitā.txt
+      work_id: W5B559E7B
+    ca022f5c568f40dcbc9f295113c3075b:
+      title: CII_§28. bodhisattvānāṃ catvāri vaiśāradyāni
+      base_file: CII_§28. bodhisattvānāṃ catvāri vaiśāradyāni.txt
+      work_id: WE8C96397
+    3cb5d18d24db418f8b655a5e3bc9c360:
+      title: CII_§29. aṣṭādaśāveṇikabodhisattvadharmāḥ
+      base_file: CII_§29. aṣṭādaśāveṇikabodhisattvadharmāḥ.txt
+      work_id: WBD47A205
+    55f995844da34a02801f0948f24eec39:
+      title: CII_§30. bodhisattvānāṃ sūtrāntanirgatāni kāni cid guṇanāmāni
+      base_file: CII_§30. bodhisattvānāṃ sūtrāntanirgatāni kāni cid guṇanāmāni.txt
+      work_id: W057C6F42
+    2c904defc38e410993c23c403fdc27ab:
+      title: CII_§31. daśabhūmināmāni
+      base_file: CII_§31. daśabhūmināmāni.txt
+      work_id: W7A494A46
+    20d9c35addd94c3f9c9e90d77e3d6301:
+      title: CII_§32. adhimukticaryābhūmināmāni
+      base_file: CII_§32. adhimukticaryābhūmināmāni.txt
+      work_id: WAEB9979B
+    02fb96298f824723bf694f5e28a48778:
+      title: CII_§33. daśadharmacaryāḥ
+      base_file: CII_§33. daśadharmacaryāḥ.txt
+      work_id: WFF7FAC5D
+    c7891915e4844268b5ac3304723228b3:
+      title: CII_§34. daśapāramitāḥ
+      base_file: CII_§34. daśapāramitāḥ.txt
+      work_id: WB85AB30D
+    3f31f2345cec4e30a38a740884fcca23:
+      title: CII_§35. catvāri saṃgrahavastūni
+      base_file: CII_§35. catvāri saṃgrahavastūni.txt
+      work_id: W32E51DE3
+    7698823e2f9549cba1f49cccd4598c48:
+      title: CII_§36. ṭrīṇi śikṣāṇi
+      base_file: CII_§36. ṭrīṇi śikṣāṇi.txt
+      work_id: W63F66FE1
+    191f51fd521b45ea97ee5ec323e90676:
+      title: CII_§37. aṣṭadaśaśūnyatā
+      base_file: CII_§37. aṣṭadaśaśūnyatā.txt
+      work_id: WEBC0F423
+    a59362793e8943a79688c240fd1de6fa:
+      title: CII_§38. catvāri smṛtyupasthānanāmāni
+      base_file: CII_§38. catvāri smṛtyupasthānanāmāni.txt
+      work_id: W3300BF08
+    ef235cab9fd549b0a92b359bc448cfa1:
+      title: CII_§39. catvāri prahāṇāni
+      base_file: CII_§39. catvāri prahāṇāni.txt
+      work_id: WF212F24E
+    f08cf9a62a514ceb9a4a57a7df3fc407:
+      title: CII_§40. catvāra ṛddhipādāḥ
+      base_file: CII_§40. catvāra ṛddhipādāḥ.txt
+      work_id: W1D031173
+    e0fac59a80ae4c5a83c02a72d2a116db:
+      title: CIV_§61. pañcagotrāḥ
+      base_file: CIV_§61. pañcagotrāḥ.txt
+      work_id: W4C66D351
+    1d38f075ba9f47b080493c500dfaafb0:
+      title: CIV_§62. dvādaśakadharmapravacanam
+      base_file: CIV_§62. dvādaśakadharmapravacanam.txt
+      work_id: W42E94300
+    486037d5bbf54d80b0f3e2ff60228dfc:
+      title: CIV_§63. dharmaparyāyaḥ
+      base_file: CIV_§63. dharmaparyāyaḥ.txt
+      work_id: WDE29ED4B
+    b94cb83b22ca436687c2ba618cdf45fd:
+      title: CIV_§64. dharmacakranāmāni
+      base_file: CIV_§64. dharmacakranāmāni.txt
+      work_id: W5C9A7FD4
+    bacf10d5fd1e47cabe1b0fe9d84a2201:
+      title: CIV_§65. saddharmanāmāni
+      base_file: CIV_§65. saddharmanāmāni.txt
+      work_id: W3CA178B6
+    a0786481cd4c483bac548a334c5f6a28:
+      title: CIV_§66. kaṇṭhoktakārikā_ādīnāṃ nāmāni
+      base_file: CIV_§66. kaṇṭhoktakārikā_ādīnāṃ nāmāni.txt
+      work_id: WA644AA1A
+    e85377f388da44a7bf099b92dd7c1dec:
+      title: CIV_§67. catvāri dhyānāni
+      base_file: CIV_§67. catvāri dhyānāni.txt
+      work_id: W140B4D26
+    984ecb7b4b2f418b839f3e4d75999972:
+      title: CIV_§68. samāpattināmāni
+      base_file: CIV_§68. samāpattināmāni.txt
+      work_id: W408CD0BE
+    283d1686dd324f6084ccc9f907c6a004:
+      title: CIV_§69. catvāry apramāṇāni
+      base_file: CIV_§69. catvāry apramāṇāni.txt
+      work_id: WFC7B7208
+    81729fc511f544af9061f5480cfc3e6a:
+      title: CIV_§70. aṣṭau vimokṣāḥ
+      base_file: CIV_§70. aṣṭau vimokṣāḥ.txt
+      work_id: W924E412E
+    46de7867c69143f68e8cb29abd173b01:
+      title: CIV_§71. aṣṭāv abhibhvāyatanāni
+      base_file: CIV_§71. aṣṭāv abhibhvāyatanāni.txt
+      work_id: W5CC82BA8
+    c1f181cc7daa4e44a7f0a8cd2543efec:
+      title: CIV_§72. daśakṛtsnāyatanāni
+      base_file: CIV_§72. daśakṛtsnāyatanāni.txt
+      work_id: WB8694394
+    8aa8c5ac0bd54c76b5d9245bf454462c:
+      title: CIV_§73. trīṇi vimokṣamukhāni
+      base_file: CIV_§73. trīṇi vimokṣamukhāni.txt
+      work_id: W22DA0D50
+    8c2c8f53d5774e869aefa6500a00ea74:
+      title: CIV_§74. catvāri pratisaraṇāni
+      base_file: CIV_§74. catvāri pratisaraṇāni.txt
+      work_id: W4173CD78
+    cdbf754b42864a38b33b187b30e6fb0b:
+      title: CIV_§75. trividhāḥ prajñāḥ
+      base_file: CIV_§75. trividhāḥ prajñāḥ.txt
+      work_id: WBB50DD67
+    b3ecde6768e948f5be4efabbedb887d9:
+      title: CIV_§76. pañcavidyāsthānāni
+      base_file: CIV_§76. pañcavidyāsthānāni.txt
+      work_id: W4F1811D2
+    ff72d050fdce4409a465e3df2fd30243:
+      title: CIV_§77. catvāri dharmasamādānāni
+      base_file: CIV_§77. catvāri dharmasamādānāni.txt
+      work_id: W456A1380
+    3a64e592a2f64a339bf24a6e146106c7:
+      title: CIV_§78. saptadhanāni
+      base_file: CIV_§78. saptadhanāni.txt
+      work_id: W56C565A9
+    b9ccf4ff602a4d17ae007e016b2859d0:
+      title: CIV_§79. ṣaḍanuttaryāṇi
+      base_file: CIV_§79. ṣaḍanuttaryāṇi.txt
+      work_id: W694B28B0
+    ad9a6d7a29074653a9770baa43dc3618:
+      title: CIV_§80. catvāry adhiṣṭhānāni
+      base_file: CIV_§80. catvāry adhiṣṭhānāni.txt
+      work_id: W7297647C
+    f1a0f9e898eb4980831d6710e784c0a1:
+      title: CIX_§161. bsam gtan bźi pa’i sa’i miṅ la
+      base_file: CIX_§161. bsam gtan bźi pa’i sa’i miṅ la.txt
+      work_id: W5ED4A715
+    fe81bde23e9a4ee2bd44d5b025bd08de:
+      title: CIX_§162. gnas gtsaṅ ma’i sa’i miṅ la
+      base_file: CIX_§162. gnas gtsaṅ ma’i sa’i miṅ la.txt
+      work_id: WCF3AC199
+    afc501dded6348d29e93fee834ff2562:
+      title: CIX_§163. gzugs med pa’i miṅ la
+      base_file: CIX_§163. gzugs med pa’i miṅ la.txt
+      work_id: W4DC7D1DF
+    812861f3b34241bcb6cfb7be93282ce5:
+      title: CIX_§164. laukikadevatāḥ
+      base_file: CIX_§164. laukikadevatāḥ.txt
+      work_id: W2738E7C0
+    fce2c07b00a54f12ad1f8dcd5ad584ae:
+      title: CIX_§165. navagrahāḥ
+      base_file: CIX_§165. navagrahāḥ.txt
+      work_id: W5A177DC3
+    a12e23ec7ac048a391578a992d87d307:
+      title: CIX_§166. aṣṭāviṃśati nakṣatrāṇi
+      base_file: CIX_§166. aṣṭāviṃśati nakṣatrāṇi.txt
+      work_id: W00F4F608
+    ac57743fa032458c9b637c70c1608593:
+      title: CIX_§167. devanāganāmāni
+      base_file: CIX_§167. devanāganāmāni.txt
+      work_id: WD1C6C68F
+    73f4e86fd12d481e8766122bc46b0df9:
+      title: CIX_§168. nāgarājanāmāni
+      base_file: CIX_§168. nāgarājanāmāni.txt
+      work_id: W2DB6349D
+    7898da102dc241ab8dd63e5d6730d789:
+      title: CIX_§169. klu phal pa’i miṅ la
+      base_file: CIX_§169. klu phal pa’i miṅ la.txt
+      work_id: WBCA249A4
+    087e09c72eea411eb1d8165afd19d560:
+      title: CIX_§170. yakṣāḥ
+      base_file: CIX_§170. yakṣāḥ.txt
+      work_id: W46CE4D99
+    3d68372350a343a2b92477165c49b555:
+      title: CIX_§171. gandharvā yathā
+      base_file: CIX_§171. gandharvā yathā.txt
+      work_id: W05BA99A4
+    5b4b90a3d513476f8b9b5a4c32506860:
+      title: CIX_§172. asurā yathā
+      base_file: CIX_§172. asurā yathā.txt
+      work_id: WD11FAA7A
+    b7bfb519a72f4d55845ee2c018e8974e:
+      title: CIX_§173. garuḍendranāmāni
+      base_file: CIX_§173. garuḍendranāmāni.txt
+      work_id: WB5422412
+    16e4cf14e69d4eaba57d3d93f0e2caa5:
+      title: CIX_§174. kinnarā yathā
+      base_file: CIX_§174. kinnarā yathā.txt
+      work_id: WFE47877E
+    1d34692629bc4deeb7aeb27a168e88b3:
+      title: CIX_§175. mahoragādhipatināmāni
+      base_file: CIX_§175. mahoragādhipatināmāni.txt
+      work_id: W7473FAAF
+    8e1ab745c34f420f8abdd6d0377d8cc9:
+      title: CIX_§176. kuṃbhāṇḍanāmāni
+      base_file: CIX_§176. kuṃbhāṇḍanāmāni.txt
+      work_id: W039691B4
+    9208452bc64a4078a20c80db3f7eb3cf:
+      title: CIX_§177. maharṣināmāni
+      base_file: CIX_§177. maharṣināmāni.txt
+      work_id: W90E4B0E0
+    ab55fa1a4a234a138cac2bff859ffb05:
+      title: CIX_§178. pūrvopadhyāyanāmāni
+      base_file: CIX_§178. pūrvopadhyāyanāmāni.txt
+      work_id: WC1919177
+    f1967a5de92e42aa8c1f85f9ad203678:
+      title: CIX_§179. tīrthikāḥ
+      base_file: CIX_§179. tīrthikāḥ.txt
+      work_id: W341CCC31
+    7197f4952ffc46f8876b0d1c3f15ac45:
+      title: CIX_§180. ṣaṭ śāstāraḥ
+      base_file: CIX_§180. ṣaṭ śāstāraḥ.txt
+      work_id: W414FAEF8
+    3aaed84a14f7434b8c9bd6626f1ad511:
+      title: CI_§1. tathāgatasya paryāyanāmāni
+      base_file: CI_§1. tathāgatasya paryāyanāmāni.txt
+      work_id: W92F42F7B
+    1f9ad6b522224b169771d806f67b2177:
+      title: CI_§10. dvātriṃśat tathāgatasya mahākaruṇāḥ
+      base_file: CI_§10. dvātriṃśat tathāgatasya mahākaruṇāḥ.txt
+      work_id: WE8449B86
+    f0bec17c42ce4a61a766c48005fdca0f:
+      title: CI_§11. trīṇy āvenikāni smṛtyupasthānāni nāmāni
+      base_file: CI_§11. trīṇy āvenikāni smṛtyupasthānāni nāmāni.txt
+      work_id: W0DA5C0B0
+    e4c63c952d1b47a3a88008350e8b658a:
+      title: CI_§12. catvāry arakṣyāṇi
+      base_file: CI_§12. catvāry arakṣyāṇi.txt
+      work_id: W94AEA44A
+    04419a5b235042f2ba0eb833dc05ca8a:
+      title: CI_§13. catvāraḥ pratisaṃvidaḥ
+      base_file: CI_§13. catvāraḥ pratisaṃvidaḥ.txt
+      work_id: W6212E663
+    6d30f0f29a204846a29892a654806465:
+      title: CI_§14. ṣaḍabhijñānāmāni
+      base_file: CI_§14. ṣaḍabhijñānāmāni.txt
+      work_id: WEEAA9664
+    620dd71f913f44b78355968785086d84:
+      title: CI_§15. abhijñākarmāṇi
+      base_file: CI_§15. abhijñākarmāṇi.txt
+      work_id: WD6256EC0
+    05fd337baf504757bb62b54fc452220c:
+      title: CI_§16. trīṇi prātihāryāṇi
+      base_file: CI_§16. trīṇi prātihāryāṇi.txt
+      work_id: W3E271383
+    a67795026bc141238f84e93acdb410c5:
+      title: CI_§17. dvātriṃśanmahāpuruṣalakṣaṇāni
+      base_file: CI_§17. dvātriṃśanmahāpuruṣalakṣaṇāni.txt
+      work_id: WC33C1F24
+    76d507be1b504dedb955b76faeed5e2f:
+      title: CI_§18. aśīty anuvyañjanāni
+      base_file: CI_§18. aśīty anuvyañjanāni.txt
+      work_id: WA5D49A8F
+    0d548cd469544705aaecd3bcb14f4fd3:
+      title: CI_§19. sūtrāntoddhṛtāni tathāgatamāhātmyanāmāni
+      base_file: CI_§19. sūtrāntoddhṛtāni tathāgatamāhātmyanāmāni.txt
+      work_id: W6E739CAA
+    acab8eeab7eb44bdbd0f978b9dd0ae03:
+      title: CI_§2. nānātathāgatanāmāni
+      base_file: CI_§2. nānātathāgatanāmāni.txt
+      work_id: W80D5F705
+    ae9f59bc93404bf19aad77b477e4ec7f:
+      title: CI_§20. ṣaṣṭyaṅgasarvanāmāni
+      base_file: CI_§20. ṣaṣṭyaṅgasarvanāmāni.txt
+      work_id: W3A185335
+    3b64b1c59e7d482281093f64eee7e544:
+      title: CI_§3. samantaprabhābuddhabhūmiḥ
+      base_file: CI_§3. samantaprabhābuddhabhūmiḥ.txt
+      work_id: WE0CE88E4
+    7a5361c771c545ebac89f5ced3df8a76:
+      title: CI_§4. asamasamapañcaskandhaḥ
+      base_file: CI_§4. asamasamapañcaskandhaḥ.txt
+      work_id: W25B2001D
+    68d6ad05de5640a684aa24c24b9a4362:
+      title: CI_§5. pañcajñānāni
+      base_file: CI_§5. pañcajñānāni.txt
+      work_id: WF2B5CB32
+    2a5fe525afdd401882c2469b01de43d1:
+      title: CI_§6. trikāyāḥ
+      base_file: CI_§6. trikāyāḥ.txt
+      work_id: WB5384ABE
+    01ccc43e7c5341fca36cdc7e71876d09:
+      title: CI_§7. daśatathāgatabalāni
+      base_file: CI_§7. daśatathāgatabalāni.txt
+      work_id: W80779F8B
+    8e9a5acc01424428a6253efed194be1f:
+      title: CI_§8. catvāri tathāgatasya vaiśāradyāni
+      base_file: CI_§8. catvāri tathāgatasya vaiśāradyāni.txt
+      work_id: W43CA8688
+    eee0afb7e84b490490b4007cb93758a5:
+      title: CI_§9. aṣṭādaśāveṇikabuddhadharmāḥ
+      base_file: CI_§9. aṣṭādaśāveṇikabuddhadharmāḥ.txt
+      work_id: W9A66A32E
+    63bee0b085134e038b105a873deb6312:
+      title: CVIII_§141. tyāgādayaḥ
+      base_file: CVIII_§141. tyāgādayaḥ.txt
+      work_id: W30808A48
+    732b7ed1748c43029eb0ba468bedb587:
+      title: CVIII_§142. hitopakāraparyāyanāmāni
+      base_file: CVIII_§142. hitopakāraparyāyanāmāni.txt
+      work_id: W613B231E
+    0fd5398b82454b4597872b22881a64b3:
+      title: CVIII_§143. blo daṅ bye bra phyed pa’i rnam pa’i miṅ la
+      base_file: CVIII_§143. blo daṅ bye bra phyed pa’i rnam pa’i miṅ la.txt
+      work_id: WCD1872FE
+    8c132bad223c4631af8afed44af0dc63:
+      title: CVIII_§144. paṇḍitaparyāyanāmāni
+      base_file: CVIII_§144. paṇḍitaparyāyanāmāni.txt
+      work_id: W7314078C
+    fe18e5e9c4b94d56b205e05736691250:
+      title: CVIII_§145. gambhīraparyāyanāmāni
+      base_file: CVIII_§145. gambhīraparyāyanāmāni.txt
+      work_id: WAE8EE2E9
+    fa44014049c5468986e0cc64952457de:
+      title: CVIII_§146. nandiparyāyaḥ
+      base_file: CVIII_§146. nandiparyāyaḥ.txt
+      work_id: W6864B400
+    01f180bda1534d698fb301523e764b95:
+      title: CVIII_§147. krodhākārāḥ
+      base_file: CVIII_§147. krodhākārāḥ.txt
+      work_id: W4A669FB4
+    4cb1e85f1bdc43e0b6e1ef24911d20c1:
+      title: CVIII_§148. catvāraḥ puḍgalāḥ
+      base_file: CVIII_§148. catvāraḥ puḍgalāḥ.txt
+      work_id: W5A85C514
+    b8aaec4c6dc7414ebae38232d3590d5e:
+      title: CVIII_§149. ihaparatrākārāṇi
+      base_file: CVIII_§149. ihaparatrākārāṇi.txt
+      work_id: WB1DBC33D
+    1c0551d6fbc44959a26ef96df422296c:
+      title: CVIII_§150. vivekādayaḥ
+      base_file: CVIII_§150. vivekādayaḥ.txt
+      work_id: W5C2CE14D
+    e1bbf785501942d083fe7f0e157e659d:
+      title: CVIII_§151. sthānanāmāni
+      base_file: CVIII_§151. sthānanāmāni.txt
+      work_id: W64294E84
+    7e72ad874d9f4baeb9e16506febe7c65:
+      title: CVIII_§152. bhūmikampitākāraḥ
+      base_file: CVIII_§152. bhūmikampitākāraḥ.txt
+      work_id: WF13F4FDF
+    4800835144914025ba8d849f10001225:
+      title: CVIII_§153. prabhāparyāyaḥ
+      base_file: CVIII_§153. prabhāparyāyaḥ.txt
+      work_id: WC8AC747C
+    485ec6150a5945bdab8fb171accb6d41:
+      title: CVIII_§154. lokadhātavaḥ
+      base_file: CVIII_§154. lokadhātavaḥ.txt
+      work_id: W5B436676
+    37e717f242e84840829a45bc66d9b53c:
+      title: CVIII_§155. catvāro dvīpāḥ
+      base_file: CVIII_§155. catvāro dvīpāḥ.txt
+      work_id: W6B6C66EF
+    2ef390934c924b82a4851c02f59d3aff:
+      title: CVIII_§156. khams gsum gyi rim pa’i miṅ la
+      base_file: CVIII_§156. khams gsum gyi rim pa’i miṅ la.txt
+      work_id: W54C46019
+    556a56e33eab4760add5e169cac59bf7:
+      title: CVIII_§157. ’dod pa’i khams kyi lha’i miṅ la
+      base_file: CVIII_§157. ’dod pa’i khams kyi lha’i miṅ la.txt
+      work_id: W9FBDE7E8
+    3c20623a4b24444bbe20454cbad5bc3a:
+      title: CVIII_§158. bsam gtan daṅ po’i sa’i miṅ la
+      base_file: CVIII_§158. bsam gtan daṅ po’i sa’i miṅ la.txt
+      work_id: WDE0120EC
+    261dde105e3e481fa9b06737f071b40f:
+      title: CVIII_§159. bsam gtan gñis pa’i sa’i miṅ la
+      base_file: CVIII_§159. bsam gtan gñis pa’i sa’i miṅ la.txt
+      work_id: W68977D66
+    f4ab37af092d47db98d14b943496e927:
+      title: CVIII_§160. bsam gtan gsum pa’i sa’i miṅ la
+      base_file: CVIII_§160. bsam gtan gsum pa’i sa’i miṅ la.txt
+      work_id: WB44C1C1A
+    38af05d7c226401fa752308a8f0f3b2c:
+      title: CVII_§121. trikarmākārā
+      base_file: CVII_§121. trikarmākārā.txt
+      work_id: W0C84FBC8
+    27778bf31f5c4f5a805bddabed7105e2:
+      title: CVII_§122. pañcānantarīyāṇi
+      base_file: CVII_§122. pañcānantarīyāṇi.txt
+      work_id: W45D51460
+    ceb00c81ea2c456598f3f98611622304:
+      title: CVII_§123. pañcopānantarīyāṇi
+      base_file: CVII_§123. pañcopānantarīyāṇi.txt
+      work_id: WA18AA192
+    a541c069b0d84cac87be51452d411e79:
+      title: CVII_§124. pañcakaṣāyāḥ
+      base_file: CVII_§124. pañcakaṣāyāḥ.txt
+      work_id: W4C039B4D
+    10beebece33c44db8fa39ba963861e88:
+      title: CVII_§125. aṣṭau lokadharmāḥ
+      base_file: CVII_§125. aṣṭau lokadharmāḥ.txt
+      work_id: W03BE72BC
+    f8791175d2864a3fbc95d90b4b002749:
+      title: CVII_§126. nānāguṇanāmāni
+      base_file: CVII_§126. nānāguṇanāmāni.txt
+      work_id: W76992C58
+    dfb0abbe164d4178be2b5b236a143a1b:
+      title: CVII_§127. skyon du brtsi ba’i miṅ la
+      base_file: CVII_§127. skyon du brtsi ba’i miṅ la.txt
+      work_id: WA64D1DAA
+    b83666af80864b7880e6f98679575124:
+      title: CVII_§128. ṣaḍbhogānām apāyasthānāni
+      base_file: CVII_§128. ṣaḍbhogānām apāyasthānāni.txt
+      work_id: W855E5AA6
+    98feca3f24114e4cb6b456529702f146:
+      title: CVII_§129. anuttaraparyāyāḥ
+      base_file: CVII_§129. anuttaraparyāyāḥ.txt
+      work_id: W8F9F9DF0
+    ced3ed582aec4b4fa2a676cee674a581:
+      title: CVII_§130. pariśuddhaparyāyāḥ
+      base_file: CVII_§130. pariśuddhaparyāyāḥ.txt
+      work_id: WFF9E4E66
+    e9afa665a9ed4a8daa1a7f92dee132e5:
+      title: CVII_§131. nisṛjāparyāyāḥ
+      base_file: CVII_§131. nisṛjāparyāyāḥ.txt
+      work_id: W107BA003
+    645958b19ff64276ad159795325de44a:
+      title: CVII_§132. kīrttipraśaṃsāparyāyāḥ
+      base_file: CVII_§132. kīrttipraśaṃsāparyāyāḥ.txt
+      work_id: WA26DFE91
+    3e977de44b234b758c9cd559d80ccc89:
+      title: CVII_§133. nindanāparyāyāḥ
+      base_file: CVII_§133. nindanāparyāyāḥ.txt
+      work_id: W02271705
+    b3956308db4c4983b0fdf342ec23a10c:
+      title: CVII_§134. anukūlapratikūlādayaḥ
+      base_file: CVII_§134. anukūlapratikūlādayaḥ.txt
+      work_id: W62925946
+    cad6f662530043699c33285fb3b16ddf:
+      title: CVII_§135. bṛhatparīttādayaḥ
+      base_file: CVII_§135. bṛhatparīttādayaḥ.txt
+      work_id: WCDCA5CEA
+    9c8a04cce1524a1fb1c5d11e900ad4c7:
+      title: CVII_§136. mitrakāryam
+      base_file: CVII_§136. mitrakāryam.txt
+      work_id: W423F121A
+    0c523a82fa1a45c0b644a000529f7330:
+      title: CVII_§137. amitrakarma
+      base_file: CVII_§137. amitrakarma.txt
+      work_id: WE9E640FB
+    8da4790defa24f63a72f60561d61146d:
+      title: CVII_§138. kuśalādayaḥ
+      base_file: CVII_§138. kuśalādayaḥ.txt
+      work_id: WDF0C7794
+    36cf2b7ff5634fccbc987dbd7465d5af:
+      title: CVII_§139. dharmadeśanāśravaṇādināmāni
+      base_file: CVII_§139. dharmadeśanāśravaṇādināmāni.txt
+      work_id: WFD3B65A3
+    ccc6f9dc97cb496e86b4d1d9cd278234:
+      title: CVII_§140. māyādayaḥ
+      base_file: CVII_§140. māyādayaḥ.txt
+      work_id: W5A422E35
+    b309a8366ca645a0aac66dfc39fa9749:
+      title: CVI_§101. catvāri mahābhūtāni; rūpaskandhanāmāni
+      base_file: CVI_§101. catvāri mahābhūtāni; rūpaskandhanāmāni.txt
+      work_id: WDBCFAB22
+    90184afc2211445d92554ab5196c05bc:
+      title: CVI_§102. vedanāskandhanāmāni
+      base_file: CVI_§102. vedanāskandhanāmāni.txt
+      work_id: WFE6FE190
+    34f8b0445ddb4adda726ae84ee3174da:
+      title: CVI_§103. saṃjñāskandhanāmāni
+      base_file: CVI_§103. saṃjñāskandhanāmāni.txt
+      work_id: W04839D32
+    81a0f95762934726988540725ca44c88:
+      title: CVI_§104. caitasikadharmāḥ
+      base_file: CVI_§104. caitasikadharmāḥ.txt
+      work_id: W4B39D786
+    69581b6127294b0bb0a9455ceaf30d86:
+      title: CVI_§105. vijñānanamāni
+      base_file: CVI_§105. vijñānanamāni.txt
+      work_id: WAE53AAD2
+    905de636620a4ef3876b9e6e838e2e0a:
+      title: CVI_§106. dvādaśāyatanāni
+      base_file: CVI_§106. dvādaśāyatanāni.txt
+      work_id: W4BA15555
+    a2a1760d59b441bda91a951cbe16e6ce:
+      title: CVI_§107. aṣṭādaśadhātavaḥ
+      base_file: CVI_§107. aṣṭādaśadhātavaḥ.txt
+      work_id: W084F27D1
+    ebfc4ca2a761428fa86c43d6a0e3954b:
+      title: CVI_§108. dvāviṃśatīndriyāṇi
+      base_file: CVI_§108. dvāviṃśatīndriyāṇi.txt
+      work_id: WEA3B9CC8
+    f4b77ebbc1fa46feb5b0f68c8b1b4830:
+      title: CVI_§109. skandhadhātvāyatanendriyāntargatāni pāda_antarāṇi
+      base_file: CVI_§109. skandhadhātvāyatanendriyāntargatāni pāda_antarāṇi.txt
+      work_id: W74847474
+    974de6d0e1ee4d2cbe8965afef071741:
+      title: CVI_§110. rāgāḥ
+      base_file: CVI_§110. rāgāḥ.txt
+      work_id: W35344441
+    128e3073659b41d187ac3590a2610af6:
+      title: CVI_§111. trayaduḥkhatā
+      base_file: CVI_§111. trayaduḥkhatā.txt
+      work_id: W0D62E6A9
+    1e2ec40462a64ec5b2f6c3156f6485f7:
+      title: CVI_§112. punar aṣṭau duḥkhatāḥ
+      base_file: CVI_§112. punar aṣṭau duḥkhatāḥ.txt
+      work_id: WCE180FAE
+    a7a305cebcf74136bb2229fa68825a16:
+      title: CVI_§113. dvādaśāṅga pratītyasamutpādaḥ
+      base_file: CVI_§113. dvādaśāṅga pratītyasamutpādaḥ.txt
+      work_id: W2E2E2F06
+    e8ac142c3a6940539b62cadeabde9a61:
+      title: CVI_§114. ṣaḍ hetavaḥ
+      base_file: CVI_§114. ṣaḍ hetavaḥ.txt
+      work_id: W990AAB0E
+    7e7f084ce53a4a63ba0dc1f9cd482a43:
+      title: CVI_§115. catvāraḥ pratyayāḥ
+      base_file: CVI_§115. catvāraḥ pratyayāḥ.txt
+      work_id: W3DE3E7FE
+    cc72675745594bcd8503d6e86372946e:
+      title: CVI_§116. pañcaphalāni
+      base_file: CVI_§116. pañcaphalāni.txt
+      work_id: W8886A972
+    94c241d5ddcb4bfd885ea0794e48d520:
+      title: CVI_§117. catvāro yonayaḥ
+      base_file: CVI_§117. catvāro yonayaḥ.txt
+      work_id: W616EF477
+    8f1726a6ec8044b8a28437d94d73d88e:
+      title: CVI_§118. catvāra āhārāḥ
+      base_file: CVI_§118. catvāra āhārāḥ.txt
+      work_id: WAB122B6D
+    2a7ef77eae3540658f7696fb4ceed4aa:
+      title: CVI_§119. navasattva_āvāsāḥ
+      base_file: CVI_§119. navasattva_āvāsāḥ.txt
+      work_id: W04116C17
+    821df152660349e18838665c5b525a51:
+      title: CVI_§120. aṣṭa_avakṣaṇāḥ
+      base_file: CVI_§120. aṣṭa_avakṣaṇāḥ.txt
+      work_id: WA122D3C8
+    78d5a85ec1744db180d891926cea0d83:
+      title: CV_§100. pañcopādānaskandhāḥ
+      base_file: CV_§100. pañcopādānaskandhāḥ.txt
+      work_id: W0C7EED78
+    2405cd3fbe2b4ac096e4e3a042c63992:
+      title: CV_§81. nava pramodyapūrvakā dhasmāḥ
+      base_file: CV_§81. nava pramodyapūrvakā dhasmāḥ.txt
+      work_id: WB6499F54
+    c4af51b6e9c14f1186e8644fba28df2d:
+      title: CV_§82. ṣaḍ niḥsaraṇīyadhātavaḥ
+      base_file: CV_§82. ṣaḍ niḥsaraṇīyadhātavaḥ.txt
+      work_id: WB9F5B953
+    0798aaed82044b10bfce4ea843ef1ab0:
+      title: CV_§83. catvāri devamanuṣyāṇāṃ cakrāṇi
+      base_file: CV_§83. catvāri devamanuṣyāṇāṃ cakrāṇi.txt
+      work_id: WF325E84C
+    91f1212d26ed408bbaed36564b3968f0:
+      title: CV_§84. tāpasaṃvāraparyāyāḥ
+      base_file: CV_§84. tāpasaṃvāraparyāyāḥ.txt
+      work_id: WA6D61191
+    62ad2692309e44e4b1e9c9f2d3721152:
+      title: CV_§85. yogāṅgāni
+      base_file: CV_§85. yogāṅgāni.txt
+      work_id: WC048D86D
+    9bad49239b4344a7bb00264b98fef01c:
+      title: CV_§86. catvāri vyākaraṇāni
+      base_file: CV_§86. catvāri vyākaraṇāni.txt
+      work_id: W42444383
+    4f78fc1d6f8542c48f7c58ae660571e6:
+      title: CV_§87. trīṇi lakṣaṇāni
+      base_file: CV_§87. trīṇi lakṣaṇāni.txt
+      work_id: W9202664B
+    94269c43e97b4a778a6e98e1163817aa:
+      title: CV_§88. catvāro ’bhiprāyāḥ
+      base_file: CV_§88. catvāro ’bhiprāyāḥ.txt
+      work_id: W9845A8A5
+    a8446f03f7dc4be993cd7d6a006cd12a:
+      title: CV_§89. catvāro ’bhisaṃdhayaḥ
+      base_file: CV_§89. catvāro ’bhisaṃdhayaḥ.txt
+      work_id: WBB5A4D3A
+    58c1bf50ddc94ea4a20b15192b77ca48:
+      title: CV_§90. śamathavipaśyanāḥ
+      base_file: CV_§90. śamathavipaśyanāḥ.txt
+      work_id: WAB43EB41
+    c0e222a21c9e404980627bf9215cf0e0:
+      title: CV_§91. daśākuśalāni
+      base_file: CV_§91. daśākuśalāni.txt
+      work_id: WC8C4D0ED
+    8f6bec6603134a53ba8088336ad56989:
+      title: CV_§92. daśakuśalāni
+      base_file: CV_§92. daśakuśalāni.txt
+      work_id: W24D47E58
+    1f4236a619d04fbcb5fcdcdf0ba45c22:
+      title: CV_§93. puṇyakriyāvastūni
+      base_file: CV_§93. puṇyakriyāvastūni.txt
+      work_id: W39199654
+    8e7976cce1824e93976e25aa76cecbb2:
+      title: CV_§94. paramārthaparyāyāḥ
+      base_file: CV_§94. paramārthaparyāyāḥ.txt
+      work_id: W9131AD93
+    d8cb00d3f4dd4dcfbfcfe75f3548a42e:
+      title: CV_§95. nirvāṇaparyāyāḥ
+      base_file: CV_§95. nirvāṇaparyāyāḥ.txt
+      work_id: WA870DC52
+    acc853f4c21840749070c28f1d85e7c3:
+      title: CV_§95A
+      base_file: CV_§95A.txt
+      work_id: W18F5F408
+    c6f99aed45374ae5a241aa743e9de613:
+      title: CV_§95B
+      base_file: CV_§95B.txt
+      work_id: W909F4E49
+    5c1507b6c4724337a802ed6bc59a414e:
+      title: CV_§96. śaraṇaparyāyāḥ
+      base_file: CV_§96. śaraṇaparyāyāḥ.txt
+      work_id: WD50D24A5
+    650769d6315f4c218a727ca543685f75:
+      title: CV_§97. mānanāparyāyāḥ
+      base_file: CV_§97. mānanāparyāyāḥ.txt
+      work_id: W4ED3B5D7
+    6d83ee3899f947908b8f8a2f4e16e42c:
+      title: CV_§98. spro źiṅ brtson pa la sogs pa’i miṅ la
+      base_file: CV_§98. spro źiṅ brtson pa la sogs pa’i miṅ la.txt
+      work_id: W84C2B952
+    f6252c0b7df14e34a066cf1a70354040:
+      title: CV_§99. abhayaparyāyaḥ
+      base_file: CV_§99. abhayaparyāyaḥ.txt
+      work_id: W46DAB1E3
+    74964366c2134a30bf09460f8de9c3e1:
+      title: CXIII_§241. puṣpanāmāni
+      base_file: CXIII_§241. puṣpanāmāni.txt
+      work_id: WDEC1A577
+    7312c6b3f7a0440ba895aa1cec2f1e78:
+      title: CXIII_§242. puṣpamūlādināmāni
+      base_file: CXIII_§242. puṣpamūlādināmāni.txt
+      work_id: W65C44CF0
+    07381c682bc7420cb3b8916209029e66:
+      title: CXIII_§243. puṣpaguṇanāmāni
+      base_file: CXIII_§243. puṣpaguṇanāmāni.txt
+      work_id: W82101822
+    0d2455e55f9c4311be785ad35f069804:
+      title: CXIII_§244. sarvadhūpanāmāni
+      base_file: CXIII_§244. sarvadhūpanāmāni.txt
+      work_id: W4AEBFA78
+    c51da19cda0140de8a899631270f6d27:
+      title: CXIII_§245. skad go ’dun gyi miṅ la
+      base_file: CXIII_§245. skad go ’dun gyi miṅ la.txt
+      work_id: W89CC705F
+    9d25bba72a944da9a696da4b9f65036a:
+      title: CXIII_§246. āryamahāvaipulyabuddhāvataṃsakasutrāntavittagaṇanānāmāni
+      base_file: CXIII_§246. āryamahāvaipulyabuddhāvataṃsakasutrāntavittagaṇanānāmāni.txt
+      work_id: W40CB0823
+    3d27d3111f1342728490d6be430ee9fb:
+      title: CXIII_§247. āryagaṇḍavyūhodbhavitasaṃkhyānāmāni
+      base_file: CXIII_§247. āryagaṇḍavyūhodbhavitasaṃkhyānāmāni.txt
+      work_id: W04EEE130
+    7bcf949d65b94f2b842c83b0a738bb6d:
+      title: CXIII_§248. lalitavistarodbhavitasaṃkhyānāmāni
+      base_file: CXIII_§248. lalitavistarodbhavitasaṃkhyānāmāni.txt
+      work_id: W29E0E540
+    fd9d8146ae3648f79203954e1ec4e6a8:
+      title: CXIII_§249. abhdharmodbhavitasaṃkhyānāmāni
+      base_file: CXIII_§249. abhdharmodbhavitasaṃkhyānāmāni.txt
+      work_id: W60C65660
+    6213aa236c1847ad998043920d269ca6:
+      title: CXIII_§250. ’jig rten pa’i graṅ kyi miṅ la
+      base_file: CXIII_§250. ’jig rten pa’i graṅ kyi miṅ la.txt
+      work_id: W215B22B3
+    1d3939e7cfdd4676b2951ece170ad45c:
+      title: CXIII_§251. rdul phra mo las bsgyur te dpag tshad la sogs par bsgre ba’i
+        miṅ la
+      base_file: CXIII_§251. rdul phra mo las bsgyur te dpag tshad la sogs par bsgre
+        ba’i miṅ la.txt
+      work_id: W1D43A6A9
+    c28660e2be2d42bfaaa63dd19b312fc9:
+      title: CXIII_§252. stobs bcur bsgur te bsgre ba’i miṅ la
+      base_file: CXIII_§252. stobs bcur bsgur te bsgre ba’i miṅ la.txt
+      work_id: WDF4990E2
+    54254f11b2e84fda9f98640066ae8f39:
+      title: CXIII_§253. dus kyi miṅ la
+      base_file: CXIII_§253. dus kyi miṅ la.txt
+      work_id: W189D0F9A
+    5eb603bfa54448469222ea4d63470ff5:
+      title: CXIII_§254. digvidignāmāni
+      base_file: CXIII_§254. digvidignāmāni.txt
+      work_id: W600A244B
+    30e34ff009504eb496cf1c31b726868f:
+      title: CXIII_§255. bslab pa bca’ ba’i phan yon bcu daṅ ltuṅ byed sde lṅa la
+        sogs pa’i miṅ las phan yon bcu’i miṅ las
+      base_file: CXIII_§255. bslab pa bca’ ba’i phan yon bcu daṅ ltuṅ byed sde lṅa
+        la sogs pa’i miṅ las phan yon bcu’i miṅ las.txt
+      work_id: WEB60460E
+    79c5399a44a644efb14eb5808e6c8969:
+      title: CXIII_§256. ltuṅ byed sde lṅa daṅ ma ṅes pa’i miṅ la
+      base_file: CXIII_§256. ltuṅ byed sde lṅa daṅ ma ṅes pa’i miṅ la.txt
+      work_id: W3A82A2BA
+    257e0d3a54964e54a33105f90b4d2401:
+      title: CXIII_§257. phas pham pa bźi’i miṅ la
+      base_file: CXIII_§257. phas pham pa bźi’i miṅ la.txt
+      work_id: WD24062F2
+    49862ec30eb34ff9b0bff63fbda80f0f:
+      title: CXIII_§258. dge ʼdun lhag ma bcu gsum ma ṅes pa‘i miṅ la
+      base_file: CXIII_§258. dge ʼdun lhag ma bcu gsum ma ṅes pa‘i miṅ la.txt
+      work_id: W78E034E1
+    83eee133d77c437c8c255eba0c356877:
+      title: CXIII_§259. naiḥsargikāḥ pāyattikāḥ
+      base_file: CXIII_§259. naiḥsargikāḥ pāyattikāḥ.txt
+      work_id: W683938AC
+    ef95666bb3ae497eab2d5d159f8ed0c8:
+      title: CXIII_§259A. prathamaṃ daśakam
+      base_file: CXIII_§259A. prathamaṃ daśakam.txt
+      work_id: WA2DA69AF
+    c57724149bac47769d4a7977b5ae627f:
+      title: CXIII_§259B. dvitīyaṃ daśakam
+      base_file: CXIII_§259B. dvitīyaṃ daśakam.txt
+      work_id: W42B40F42
+    f5f2d5a207d441a5ade24857890bf86c:
+      title: CXIII_§259C. tṛtīyaṃ daśakam
+      base_file: CXIII_§259C. tṛtīyaṃ daśakam.txt
+      work_id: W7040B3A4
+    0faab688b53e44d8934cf29b128eda20:
+      title: CXIII_§260. navatipātayantikādharmāḥ
+      base_file: CXIII_§260. navatipātayantikādharmāḥ.txt
+      work_id: WE4610DD5
+    42b8572411234f579fcef0ce8a6aa4d1:
+      title: CXIII_§260A. prathamaṃ daśakam
+      base_file: CXIII_§260A. prathamaṃ daśakam.txt
+      work_id: WE51C160D
+    d6bab5a2325c4c98b7d6362e8e362a09:
+      title: CXIII_§260B. dvitīyaṃ daśakam
+      base_file: CXIII_§260B. dvitīyaṃ daśakam.txt
+      work_id: WCCB389C2
+    9c73848e3d9c4130829a8e8695ff690c:
+      title: CXIII_§260C. tṛtīyaṃ daśakam
+      base_file: CXIII_§260C. tṛtīyaṃ daśakam.txt
+      work_id: W0D042FAF
+    baf6d88fcb604b5aae8ef655b74cadb1:
+      title: CXIII_§260D. caturthaṃ daśakam
+      base_file: CXIII_§260D. caturthaṃ daśakam.txt
+      work_id: W02483078
+    3c97f36297444ab6a8d0914c75c023e5:
+      title: CXIII_§260E. pañcamaṃ daśakam
+      base_file: CXIII_§260E. pañcamaṃ daśakam.txt
+      work_id: W60640F95
+    6a505828f8744406a3485de6d1837021:
+      title: CXIII_§260F. ṣaṣṭhaṃ daśakam
+      base_file: CXIII_§260F. ṣaṣṭhaṃ daśakam.txt
+      work_id: WAF2EF424
+    ff3f66fc71694cb3ac117d867c127688:
+      title: CXIII_§260G. saptamaṃ daśakam
+      base_file: CXIII_§260G. saptamaṃ daśakam.txt
+      work_id: W84334ACB
+    01638d33a943482aa0ecd740f394325d:
+      title: CXIII_§260H. aṣṭamaṃ daśakam
+      base_file: CXIII_§260H. aṣṭamaṃ daśakam.txt
+      work_id: W3336933F
+    8d9e58ca6f644abda1c80780a633ffe8:
+      title: CXIII_§260I. navamaṃ daśakam
+      base_file: CXIII_§260I. navamaṃ daśakam.txt
+      work_id: W6A3EC865
+    8de1049f42d446b7bd7ec0f3fa0cfcf3:
+      title: CXII_§221. gar thabs kyi rnams graṅs la
+      base_file: CXII_§221. gar thabs kyi rnams graṅs la.txt
+      work_id: W2C6AF0A1
+    d346ab13084c46b6aed9f4977ebe0c64:
+      title: CXII_§222. brāhmaṇavihārakarmāṇi
+      base_file: CXII_§222. brāhmaṇavihārakarmāṇi.txt
+      work_id: WDA3BA38B
+    a9d73ad512604407bcbe1152a218efce:
+      title: CXII_§223. bram ze’i las rnam pa drug gi miṅ la
+      base_file: CXII_§223. bram ze’i las rnam pa drug gi miṅ la.txt
+      work_id: WC11242FB
+    1bf0e6d278e64608ad246219977246ca:
+      title: CXII_§224. skad go mthun gyi miṅ la
+      base_file: CXII_§224. skad go mthun gyi miṅ la.txt
+      work_id: W2744854F
+    0c7bb0e370634a7c93870d8e80aaed78:
+      title: CXII_§225. svargakāmādīnām nāmāni
+      base_file: CXII_§225. svargakāmādīnām nāmāni.txt
+      work_id: WD294445E
+    adafcb0b5b0c463eb93e30d856471446:
+      title: CXII_§226. skabs nas tshig gi phrad du ’byuṅ ba‘i miṅ la
+      base_file: CXII_§226. skabs nas tshig gi phrad du ’byuṅ ba‘i miṅ la.txt
+      work_id: W4CE20E55
+    bb59f5906d9843db8fda764936835767:
+      title: CXII_§227. mkhar daṅ gnas daṅ gos la sogs pa’i lam sraṅ gi miṅ la
+      base_file: CXII_§227. mkhar daṅ gnas daṅ gos la sogs pa’i lam sraṅ gi miṅ la.txt
+      work_id: W72B69604
+    324e369f6473478e8f1644abc72d3e6e:
+      title: CXII_§228. śiṅ rta daṅ thoṅ gśol gyi yan lag tu gtogs pa’i miṅ la
+      base_file: CXII_§228. śiṅ rta daṅ thoṅ gśol gyi yan lag tu gtogs pa’i miṅ la.txt
+      work_id: WAA6E667E
+    ae2cfd2e74be4283af45529c8b42e4c8:
+      title: CXII_§229. ’bru sna tshogs kyi miṅ la
+      base_file: CXII_§229. ’bru sna tshogs kyi miṅ la.txt
+      work_id: W96DD96B0
+    c37b56d396044fa9977cf90ee4d04c18:
+      title: CXII_§230. dus ston gyi miṅ la
+      base_file: CXII_§230. dus ston gyi miṅ la.txt
+      work_id: W13920016
+    fa67250da3e441e483838d7f1ed04fba:
+      title: CXII_§231. źo mar daṅ zas skom gyi miṅ la
+      base_file: CXII_§231. źo mar daṅ zas skom gyi miṅ la.txt
+      work_id: WBEFFB42A
+    b14a10e75d6a4f7fb5020777bec19cda:
+      title: CXII_§232. oṣadhināmāni
+      base_file: CXII_§232. oṣadhināmāni.txt
+      work_id: W9E684B09
+    67f38e54f1ef49b480ae49a9444ece4a:
+      title: CXII_§233. vastranāmāni
+      base_file: CXII_§233. vastranāmāni.txt
+      work_id: WC9C52951
+    1a8f37b73f8b4d96b6c49ee6b435a97c:
+      title: CXII_§234. pariṣkāranāmāni
+      base_file: CXII_§234. pariṣkāranāmāni.txt
+      work_id: W5C947DB7
+    db420d38eeb2497882478a3dc20814b3:
+      title: CXII_§235. raṅganāmāni
+      base_file: CXII_§235. raṅganāmāni.txt
+      work_id: WCB2CF4BE
+    e6cf6baccbff4c1f840cffaae59e828c:
+      title: CXII_§236. maṇiratnanāmāni
+      base_file: CXII_§236. maṇiratnanāmāni.txt
+      work_id: WB820975B
+    bd39e3d6e6344fdab691d1f52b03bbf4:
+      title: CXII_§237. śaṅkhādināmāni
+      base_file: CXII_§237. śaṅkhādināmāni.txt
+      work_id: W9AAF9337
+    32e6bb193cb740de8d8d664c5e04dc7e:
+      title: CXII_§238. sarvālaṃkāranāmāni
+      base_file: CXII_§238. sarvālaṃkāranāmāni.txt
+      work_id: WA30B0CAE
+    0657dec3c6814aef92509864f94211d8:
+      title: CXII_§239. go mtshon gyi miṅ la
+      base_file: CXII_§239. go mtshon gyi miṅ la.txt
+      work_id: W08A7D5A3
+    fce623f63dfd4e619d7fbb6e74ff391e:
+      title: CXII_§240. pūjāpariṣkārāḥ
+      base_file: CXII_§240. pūjāpariṣkārāḥ.txt
+      work_id: WE63B6B80
+    12d82d64c88746f8b65e6ae78528d3db:
+      title: CXIV_§261. pratideśanīyāni
+      base_file: CXIV_§261. pratideśanīyāni.txt
+      work_id: W39431AEB
+    40a101a1917d482b8a9ce5e2c3a2a9dc:
+      title: CXIV_§262. bslab pa’i chos maṅ po’i miṅ la
+      base_file: CXIV_§262. bslab pa’i chos maṅ po’i miṅ la.txt
+      work_id: W3E5B5860
+    38ecc67136724322913d4cadf4c58435:
+      title: CXIV_§263. adhikaraṇaśamathā
+      base_file: CXIV_§263. adhikaraṇaśamathā.txt
+      work_id: W58DC0EC9
+    6f0ed1efc5f242e888eeada291ba0f0b:
+      title: CXIV_§264. chad pas bcad ciṅ gso ba la sogs pa’i miṅ la
+      base_file: CXIV_§264. chad pas bcad ciṅ gso ba la sogs pa’i miṅ la.txt
+      work_id: W859C21D0
+    bf5ee37aa9f34360b8bf69117f543b24:
+      title: CXIV_§265. gsol ba daṅ las la sogs pa’i miṅ la
+      base_file: CXIV_§265. gsol ba daṅ las la sogs pa’i miṅ la.txt
+      work_id: W3CBBD282
+    00b102b6b11a473c88a7cf2e8a98290f:
+      title: CXIV_§266. triśaraṇagamanam
+      base_file: CXIV_§266. triśaraṇagamanam.txt
+      work_id: W98509B2B
+    78370b80e57b4c02bb144c806c2668d9:
+      title: CXIV_§267. bslab pa’i gźi brgyad la sogs pa’i miṅ la
+      base_file: CXIV_§267. bslab pa’i gźi brgyad la sogs pa’i miṅ la.txt
+      work_id: W2DD2DEDD
+    42d567b07ba548b3828a5159f4308509:
+      title: CXIV_§268. catvārah śramaṇakārakadharmāḥ
+      base_file: CXIV_§268. catvārah śramaṇakārakadharmāḥ.txt
+      work_id: W656B2003
+    817c857ae1c0484a95cdc7f460869ae5:
+      title: CXIV_§269. rab tu ’byuṅ ba la sogs pa’i miṅ la
+      base_file: CXIV_§269. rab tu ’byuṅ ba la sogs pa’i miṅ la.txt
+      work_id: W684629BB
+    53cc71d5a5fa4b3c83fa7a2fe07875a9:
+      title: CXIV_§270. rab tu byuṅ ba’i gźi la
+      base_file: CXIV_§270. rab tu byuṅ ba’i gźi la.txt
+      work_id: WC64F67CF
+    637140b5fa454235abf9eb572d30cfc2:
+      title: CXIV_§271. yo byad bcu gsum gyi miṅ la
+      base_file: CXIV_§271. yo byad bcu gsum gyi miṅ la.txt
+      work_id: WC20F7CDA
+    918928e3413d4a4c86b653e39b739d4c:
+      title: CXIV_§272. dge sbyod gi yo byad kyi miṅ la
+      base_file: CXIV_§272. dge sbyod gi yo byad kyi miṅ la.txt
+      work_id: W32960896
+    8685e076b2ab495690cc915f0ba9c6f0:
+      title: CXIV_§273. gaṅ zag bcu gñis miṅ la
+      base_file: CXIV_§273. gaṅ zag bcu gñis miṅ la.txt
+      work_id: W9D4B10D4
+    8d017e40b30e4a72995714602899f2a4:
+      title: CXIV_§274. sde pa bżi rnam pa
+      base_file: CXIV_§274. sde pa bżi rnam pa.txt
+      work_id: W93B97E5A
+    0f0a7ee0919146b395455b06f533b7a4:
+      title: CXIV_§275. gżi bcu bdun la
+      base_file: CXIV_§275. gżi bcu bdun la.txt
+      work_id: WA43CCD9F
+    71fdce15b95349a9a05f3a7632ae9a50:
+      title: CXIV_§276. chu ruṅ ba rnam pa lṅa’i miṅ la
+      base_file: CXIV_§276. chu ruṅ ba rnam pa lṅa’i miṅ la.txt
+      work_id: W4F541555
+    e195858d8c8f459dbc388c228907daab:
+      title: CXIV_§277. dge sbyoṅ gi skyon du brtsi ba la
+      base_file: CXIV_§277. dge sbyoṅ gi skyon du brtsi ba la.txt
+      work_id: WAA446414
+    9c225cd986fe4772b6e7ca77e3f3f7e1:
+      title: CXIV_§278. gtsug lag khaṅ
+      base_file: CXIV_§278. gtsug lag khaṅ.txt
+      work_id: WE8E0BBFB
+    167f13be051f4a7aa13a0953e48827f5:
+      title: CXIV_§279. gos kyi gźi’i miṅ la
+      base_file: CXIV_§279. gos kyi gźi’i miṅ la.txt
+      work_id: W923614B9
+    73a8c7c616694fb6b72e181d7363aa06:
+      title: CXIV_§280. ’dul ba las bstus pa’i skad thor bu pa
+      base_file: CXIV_§280. ’dul ba las bstus pa’i skad thor bu pa.txt
+      work_id: WCA2C84D3
+    820d8c59fe224756bc05ccf5a6b87bb9:
+      title: CXI_§201. mu stegs pa rigs pa can gyi gźuṅ las ’byuṅ ba
+      base_file: CXI_§201. mu stegs pa rigs pa can gyi gźuṅ las ’byuṅ ba.txt
+      work_id: WB701CCC1
+    22436b2f25b34c93b86e0ad0d34aaf52:
+      title: CXI_§202. graṅs can gyi gźuṅ las ’byuṅ ba
+      base_file: CXI_§202. graṅs can gyi gźuṅ las ’byuṅ ba.txt
+      work_id: W1B41791C
+    c3acdb92cbc9437eb903fde96ebaedee:
+      title: CXI_§203. spyod pa can gyi gźuṅ la ’byuṅ ba
+      base_file: CXI_§203. spyod pa can gyi gźuṅ la ’byuṅ ba.txt
+      work_id: W5D7DB38B
+    607e43ece68c4e46a4ce9748eb437ae1:
+      title: CXI_§204. bye brag pa’i tshig gi don drug la sogs pa’i miṅ la
+      base_file: CXI_§204. bye brag pa’i tshig gi don drug la sogs pa’i miṅ la.txt
+      work_id: WA90E2E6C
+    9fc7fa13e94c402293e7bcdd28304424:
+      title: CXI_§205. tshad ma maṅ po smra ba las ’byuṅ ba
+      base_file: CXI_§205. tshad ma maṅ po smra ba las ’byuṅ ba.txt
+      work_id: WC4C27D4C
+    f0cdc036af774180aab7d39e69515c3b:
+      title: CXI_§206. lta ba sna tshogs kyi miṅ la
+      base_file: CXI_§206. lta ba sna tshogs kyi miṅ la.txt
+      work_id: W0B1BB1BB
+    ba33bb53f9ee431ca361ae874cefd090:
+      title: CXI_§207. caturdaśāvyākṛtamūlāni
+      base_file: CXI_§207. caturdaśāvyākṛtamūlāni.txt
+      work_id: W7B483FD3
+    6c2b54990eb74ad1ae641134fe248652:
+      title: CXI_§208. tīrthakātmaparyāyāḥ
+      base_file: CXI_§208. tīrthakātmaparyāyāḥ.txt
+      work_id: WA8D56B6D
+    b5aed706dd054149a33b5f23c992628f:
+      title: CXI_§209. viṃśatiśikharasamudgataḥ satkāyadṛṣṭiśailaḥ
+      base_file: CXI_§209. viṃśatiśikharasamudgataḥ satkāyadṛṣṭiśailaḥ.txt
+      work_id: W343B45A9
+    0253c420f8554e21ae2d34bc1373acec:
+      title: CXI_§210. vyā ka ra ṇa’i skad kyi miṅ la
+      base_file: CXI_§210. vyā ka ra ṇa’i skad kyi miṅ la.txt
+      work_id: W23C0A0AF
+    b22924f4639144e6be2641e5f2a33d4c:
+      title: CXI_§211. saptavibhaktikāyaḥ
+      base_file: CXI_§211. saptavibhaktikāyaḥ.txt
+      work_id: W931BCB35
+    9564659c36094eb7937608cdc0f22867:
+      title: CXI_§212. yi dags su gtogs pa’i miṅ la
+      base_file: CXI_§212. yi dags su gtogs pa’i miṅ la.txt
+      work_id: WB3D80ED9
+    6585ef2568284ce9b366669e88f97ca7:
+      title: CXI_§213
+      base_file: CXI_§213.txt
+      work_id: WCB65A868
+    251a0692248047c6ac55b4d5b3135378:
+      title: CXI_§215. sems can dmyal ba daṅ gcad ciṅ gtub la sogs pa’i miṅ la
+      base_file: CXI_§215. sems can dmyal ba daṅ gcad ciṅ gtub la sogs pa’i miṅ la.txt
+      work_id: W6ACC4C43
+    23feab38889d4c7698f4fdd2dd03e693:
+      title: CXI_§216. graṅ ba’i sems can dmyal ba’ʼmiṅ la
+      base_file: CXI_§216. graṅ ba’i sems can dmyal ba’ʼmiṅ la.txt
+      work_id: W62026B37
+    746b821015414a31b8bd634701ed7d7b:
+      title: CXI_§217. aṣṭādaśavidyā sthānāni
+      base_file: CXI_§217. aṣṭādaśavidyā sthānāni.txt
+      work_id: WA17AF7FA
+    4ae1a9df3b304a6b9f811f04a628ec0c:
+      title: CXI_§218. bzo’i gnas daṅ sgyu rtsal gyi miṅ la
+      base_file: CXI_§218. bzo’i gnas daṅ sgyu rtsal gyi miṅ la.txt
+      work_id: W4A524EA9
+    0ee566f0c6d44d4396940c0ff9e6cac3:
+      title: CXI_§219. rol mo byed pa daṅ spyad kyi miṅ la
+      base_file: CXI_§219. rol mo byed pa daṅ spyad kyi miṅ la.txt
+      work_id: W0914A803
+    08f3469b5d874febbcd782c74b0bb61e:
+      title: CXI_§220. glu dbyaṅs kyi miṅ la
+      base_file: CXI_§220. glu dbyaṅs kyi miṅ la.txt
+      work_id: W66A8DB33
+    f335312ebc804a9b952d5edbeaa57189:
+      title: CXV_§281. drug sde’i miṅ la
+      base_file: CXV_§281. drug sde’i miṅ la.txt
+      work_id: WF84F4F98
+    3a46cfd301e341378cafccba5fd7e3ec:
+      title: CXV_§282. ma ma bźi‘i miṅ la
+      base_file: CXV_§282. ma ma bźi‘i miṅ la.txt
+      work_id: W56D92BEC
+    7ae8d05654dc4bb99155ea8283f610f5:
+      title: CXV_§283. vyādhināmāni
+      base_file: CXV_§283. vyādhināmāni.txt
+      work_id: W1EA488D8
+    056cc38b716e4b5eaf1c5b6381ba5a35:
+      title: CX_§181. cakravartirājānaḥ
+      base_file: CX_§181. cakravartirājānaḥ.txt
+      work_id: WA24605D3
+    73d5b3526e084acea3316e7511972d49:
+      title: CX_§182. cakravartināṃ saptaratnādiguṇakramaḥ
+      base_file: CX_§182. cakravartināṃ saptaratnādiguṇakramaḥ.txt
+      work_id: WD2066A29
+    5b4bd56c6f8e41dfa636964da025fc96:
+      title: CX_§183. sātirekaputrasahasrāṇāṃ guṇapaddhatiḥ
+      base_file: CX_§183. sātirekaputrasahasrāṇāṃ guṇapaddhatiḥ.txt
+      work_id: WAC94569E
+    9e1077ee49b045b1bc901c987a71d5a5:
+      title: CX_§184. caturaṅgabalanāmāni
+      base_file: CX_§184. caturaṅgabalanāmāni.txt
+      work_id: W8371E808
+    9ec1e40e4a7d47edb6cb5282499ee698:
+      title: CX_§185. pradeśarājanāmāni
+      base_file: CX_§185. pradeśarājanāmāni.txt
+      work_id: W00BDAB1E
+    88650c54869042e193ef36922de65e16:
+      title: CX_§186. pāṇḍavādināmāni
+      base_file: CX_§186. pāṇḍavādināmāni.txt
+      work_id: WA2EFFFAF
+    34c0337ce0fb403a9c80ca869b228c75:
+      title: CX_§187. manuṣyakramaḥ
+      base_file: CX_§187. manuṣyakramaḥ.txt
+      work_id: W80258B0C
+    e33e5519e04b4b3ca93be7ef18e49c9e:
+      title: CX_§188. catvāro varṇāḥ
+      base_file: CX_§188. catvāro varṇāḥ.txt
+      work_id: W49BCA39B
+    0d8e165a8059444aa1e73145d6ca9907:
+      title: CX_§189. pha ma la sogs pa gñen bśes kyi miṅ la
+      base_file: CX_§189. pha ma la sogs pa gñen bśes kyi miṅ la.txt
+      work_id: WE45574A4
+    6514d90bf1934f51be956f564be631c8:
+      title: CX_§190. śarīrāṅgapratyaṅgāni
+      base_file: CX_§190. śarīrāṅgapratyaṅgāni.txt
+      work_id: WC274F4A9
+    d6b90627b0a0456a850f594c14a186c0:
+      title: CX_§191. lus su ’gyur ba’i rim pa’i miṅ la
+      base_file: CX_§191. lus su ’gyur ba’i rim pa’i miṅ la.txt
+      work_id: W39B909AB
+    8b66258cda974dad921e26ab37619d36:
+      title: CX_§193
+      base_file: CX_§193.txt
+      work_id: W7A41ABE4
+    3ab2bb9d80a44c12aa8b71352d43bbc8:
+      title: CX_§194. rgas pa daṅ na ba’i miṅ la
+      base_file: CX_§194. rgas pa daṅ na ba’i miṅ la.txt
+      work_id: W93BB94B3
+    5d95e408006c4401bdeec0c0b4870507:
+      title: CX_§195 girināmāni
+      base_file: CX_§195 girināmāni.txt
+      work_id: WBFFBFBF0
+    3baba6f9cfac437589e29b87f875c2dc:
+      title: CX_§195. yul gyi miṅ la
+      base_file: CX_§195. yul gyi miṅ la.txt
+      work_id: WEFD44FDB
+    4747d849cb094679bd8b4a37bc4faa4a:
+      title: CX_§196. rgya mtsho’i miṅ gi rnam graṅs daṇ chu daṅ gliṅ la sogs pa’i
+        miṅ la
+      base_file: CX_§196. rgya mtsho’i miṅ gi rnam graṅs daṇ chu daṅ gliṅ la sogs
+        pa’i miṅ la.txt
+      work_id: WC1A4D08A
+    f7851b05d9244bee974fdf4a0cfe98da:
+      title: CX_§197. śiṅ gi miṅ la
+      base_file: CX_§197. śiṅ gi miṅ la.txt
+      work_id: W969C63C6
+    7f645fec3f2146e880d7d8fdb93e5f04:
+      title: CX_§198. mantranāyavanirgatāni
+      base_file: CX_§198. mantranāyavanirgatāni.txt
+      work_id: W4834CDEA
+    58507d54f6084f3eb84672b524becfe1:
+      title: CX_§199. utpātanimittāni
+      base_file: CX_§199. utpātanimittāni.txt
+      work_id: W7BC0A1BA
+    a85f0ad4d4024438832b7b3c8274bf9d:
+      title: CX_§200. pramāṇatarkanirgatārthāḥ
+      base_file: CX_§200. pramāṇatarkanirgatārthāḥ.txt
+      work_id: WB0B44458
+    1eb7e7e39e2445d1a0e380b57d60f559:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W91DB22D3
+    f8bb74d5fb5048c5b1b00af7f2c81f2b:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WC9AAD83D
+    7de9c87071b94c368c43f833c68c6ea1:
+      title: Title
+      base_file: Title.txt
+      work_id: WDFE64644
+  chapter_to_tile:
+    CI: §1-20
+    CII: §21-40
+    CIII: §41-60
+    CIV: §61-80
+    CV: §81-100
+    CVI: §101-120
+    CVII: §121-140
+    CVIII: §141-160
+    CIX: §161-180
+    CX: §181-200
+    CXI: §201-220
+    CXII: §221-240
+    CXIII: §241-260
+    CXIV: §261-280
+    CXV: §281-283
+created_at: '2022-03-02T00:08:45.440414'
+last_modified_at: '2022-03-02T00:08:45.440423'
